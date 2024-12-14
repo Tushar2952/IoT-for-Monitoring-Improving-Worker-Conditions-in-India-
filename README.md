@@ -21,10 +21,7 @@ This project focuses on leveraging the Internet of Things (IoT) to monitor and i
 3. **Worker-Centric Design**: Focuses on affordability, usability, and worker privacy.
 
 ## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone <https://github.com/Tushar2952/IoT-for-Monitoring-Improving-Worker-Conditions-in-India-.git>
-   ```
+1. Clone the repository.
 2. Set up the hardware components as per the provided circuit diagrams.
 3. Upload the provided code to your microcontroller using Arduino IDE.
 4. Connect to ThingSpeak for data storage and visualization.
