@@ -23,7 +23,7 @@ This project focuses on leveraging the Internet of Things (IoT) to monitor and i
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Tushar2952/IoT-for-Monitoring-Improving-Worker-Conditions-in-India-.git>
    ```
 2. Set up the hardware components as per the provided circuit diagrams.
 3. Upload the provided code to your microcontroller using Arduino IDE.
