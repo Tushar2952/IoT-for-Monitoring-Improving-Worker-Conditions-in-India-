@@ -39,6 +39,4 @@ This project is developed by:
 
 Under the guidance of Dr. Sasikumar P, VIT Vellore.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
